@@ -12,16 +12,12 @@
         <id>https://minhna1112.github.io/blog/greetings</id>
         <link href="https://minhna1112.github.io/blog/greetings"/>
         <updated>2024-02-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
-        <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p>
-<p>Feel free to play around and edit this post as much as you like.</p>]]></content>
+        <summary type="html"><![CDATA[Gonna posts a lot of stuffs here, mostly about my personal lessons learned from both academia and industry experience.]]></summary>
+        <content type="html"><![CDATA[<p>Gonna posts a lot of stuffs here, mostly about my personal lessons learned from both academia and industry experience.</p>
+<p>If you are interesting to share or collaborate with me on any posts, feel free to DM me over Linkedin or Twitter</p>]]></content>
         <author>
-            <name>Joel Marcey</name>
-            <uri>https://github.com/JoelMarcey</uri>
-        </author>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Minh Nguyễn</name>
+            <uri>https://minhnguyen.eu</uri>
         </author>
         <category label="greetings" term="greetings"/>
     </entry>
