@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Minh Nguy\u1ec5n","title":"Owner","url":"https://minhnguyen.eu","imageURL":"https://github.com/minhna1112.png","key":"minhnguyen","page":null,"count":1}]}')}}]);
